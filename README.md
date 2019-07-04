@@ -2,9 +2,10 @@
 
 Replicate Montague, Dayan, and Sejnowski (1996)
 
-This repo is used to clean the lab notebook from NEU|PSY 330: Computational Modeling of Psychological Function at Princeton, Spring 2019. 
+This repo is used as lab material for NEU|PSY 330: Computational Modeling of Psychological Function at Princeton, Spring 2019. Here're some <a href="https://docs.google.com/presentation/d/1FZzoebdkT6g103CbYOA87Hz_CUIdjs37wVu7TB2E4RA/edit?usp=sharing">slides</a> from the lab. 
 
-<a href="https://docs.google.com/presentation/d/1FZzoebdkT6g103CbYOA87Hz_CUIdjs37wVu7TB2E4RA/edit?usp=sharing">Slides</a> from the lab
+This repo fixed the bug from <a href="https://github.com/PrincetonUniversity/PsyNeuLink/blob/master/Scripts/Models/MontagueDayanSejnowski96.py">script</a>. 
+
 
 
 ### Results: 
