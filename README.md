@@ -9,8 +9,6 @@ This repo is used to clean the lab notebook from NEU|PSY 330: Computational Mode
 
 ### Results: 
 
-
-
 <img src="https://github.com/qihongl/Montague-etal-1996/blob/master/figs/fig5a.png" width="400">
 <img src="https://github.com/qihongl/Montague-etal-1996/blob/master/figs/fig5b.png" width="450">
 <img src="https://github.com/qihongl/Montague-etal-1996/blob/master/figs/fig5c.png" width="450">
@@ -18,6 +16,16 @@ This repo is used to clean the lab notebook from NEU|PSY 330: Computational Mode
 Original results from Montague et al (1996):
 
 <img src="https://github.com/qihongl/Montague-etal-1996/blob/master/figs/original-fig5.png" width="400">
+
+
+### Dependencies: 
+
+```
+psyneulink==0.5.3.2+252.g9d72ff753
+numpy==1.15.4
+matplotlib==3.0.2
+seaborn==0.9.0
+```
 
 ### Reference: 
 Montague, P. R., Dayan, P., & Sejnowski, T. J. (1996). A framework for mesencephalic dopamine systems based on predictive Hebbian learning. The Journal of Neuroscience: The Official Journal of the Society for Neuroscience, 16(5), 1936–1947.
